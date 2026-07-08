@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Strategic Management"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "MBA course"
+permalink: /teaching/2025-Fall-teaching-1
+venue: "University of North Carolina"
+date: 2025-10-20
+location: "Chapel Hill, NC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The purpose of this course is to increase your ability to analyze the strategy of corporations and to help you become a “strategic manager” who can create strategy for your product, business unit, or firm. By focusing on strategy, this course explores how firms create and capture value to win in their markets and against their competitors. We will discuss fundamental strategy theories, and you will learn to apply these theories and frameworks to a diverse set of organizations. The ultimate intent of this course is to help you think strategically within whichever career role you choose in the future.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+3 sections, 206 students
