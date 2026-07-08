@@ -1,0 +1,11 @@
+---
+title: "Strategic Management"
+collection: content
+type: "Video"
+permalink: /content/DWvideo
+venue: "SMJ video Abstract"
+date: 2021-08-01
+location: "Chapel Hill, NC"
+---
+
+<iframe width="653" height="367" src="https://www.youtube.com/embed/Ja4MmpcS5jM" title="Decision Weaving: Forming Novel, Complex Strategy in Entrepreneurial Settings | SMJ Video Abstract" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
