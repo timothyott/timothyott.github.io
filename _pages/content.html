@@ -1,1 +1,12 @@
+---
+layout: archive
+title: "Other content"
+permalink: /content/
+author_profile: true
+---
 
+{% include base_path %}
+
+{% for post in site.content reversed %}
+  {% include archive-single.html %}
+{% endfor %}
