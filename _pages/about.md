@@ -15,7 +15,7 @@ My research interests are at the confluence of strategy, entrepreneurship, and c
 
 I am addressing this critical area of research via two separate but related streams of work which help to unpack the interplay between how entrepreneurs think about strategy and how they learn from action. I first posited this dual-prong framework for discussing the processes entrepreneurs use to form and adapt strategy in the paper “Strategy Formation in Entrepreneurial Settings: Past Insights and Future Directions” (published in Strategic Entrepreneurship Journal in 2017, with Eisenhardt and Bingham) in which I review prior work on executive decision making and strategy formation processes and how they affect the strategy and performance of firms. I present a novel organization of prior work into either “strategizing by doing” or “strategizing by thinking.” “Doing” allows executives to learn about novel situations quickly and effectively while “thinking” allows executives to holistically design complex solutions with high internal fit. By organizing work in this way, I highlight the need to manage both novelty and complexity in the strategy formation process and the difficulty of doing both at the same time. 
 
-For a larger overview of my work please see my [CV](https://timothy.github.io/files/OttCV-07062026.pdf "CV") or [Google Scholar](https://scholar.google.com/citations?user=3VCchNAAAAAJ&hl=en "Google Scholar") page. 
+For a larger overview of my work please see my [CV](https://timothy.github.io/files/OttCV-07082026.pdf "CV") or [Google Scholar](https://scholar.google.com/citations?user=3VCchNAAAAAJ&hl=en "Google Scholar") page. 
 
 Teaching
 ======
