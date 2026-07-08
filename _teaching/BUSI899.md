@@ -13,5 +13,5 @@ A disproportionate number of “Best Paper” and “Most Interesting Paper” s
 * Fall 2026, 6 students
 * Fall 2024, 5 students
 * Fall 2022, 4 students
-* Spring 2021, 7 students
-* Spring 2019, 8 students
+* Fall 2021, 7 students
+* Fall 2019, 8 students
