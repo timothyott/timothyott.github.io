@@ -33,6 +33,3 @@ M.S., Management Science & Engineering, Stanford University, 2010
 
 Ph.D., Management Science & Engineering, Stanford University, 2018
 
-Anything else?
-------
-anything else?
