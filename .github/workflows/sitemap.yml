@@ -1,0 +1,28 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches:
+      - main  # Change to "master" if your default branch uses the old naming system
+
+jobs:
+  sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Required to pull git history for accurate page modification dates
+
+      - name: Generate XML Sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: https://github.io # Replace with your actual live URL
+
+      - name: Commit and Push Sitemap Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Automated sitemap update" || exit 0
+          git push
