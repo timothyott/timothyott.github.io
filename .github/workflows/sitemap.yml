@@ -3,7 +3,7 @@ name: Generate Sitemap
 on:
   push:
     branches:
-      - main  # Change to "master" if your default branch uses the old naming system
+      - master  # Change to "master" if your default branch uses the old naming system
 
 jobs:
   sitemap:
